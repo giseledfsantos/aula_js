@@ -8,5 +8,5 @@ function redirecionar(){
 }
 
 function cbochange(elemento){
-    alert(elemento.value);
+    alert(elemento.value); 
 }
